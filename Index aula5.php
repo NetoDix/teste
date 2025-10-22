@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Página sobre Animes</title>
+    <title>Cursos Fib</title>
     <style>
         body {
             font-family: Arial, sans-serif;
@@ -67,7 +67,7 @@
 </head>
 <body>
     <header>
-        <h1>Explorando Mundos e Emoções Animadas</h1>
+        <h1>Explorando Leandro Mundos e Emoções Animadas</h1>
     </header>
     <main>
         <section id="intro">
